@@ -35,15 +35,16 @@ body {
 
 
 .parentofcards{
-padding: 50px;
+padding: 30px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin-bottom: 150px;
 }
 
 .card{
-  margin: 120px;
-  margin-top: 150px;
+  margin: 70px;
+  margin-top: 200px;
 }
 
 .footer_container{
